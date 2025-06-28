@@ -16,6 +16,6 @@ class DemoServiceTest {
 
         String resultado = service.procesarPeticion(request);
 
-        assertEquals("Procesado: Juan", resultado);
+        assertEquals("Procesado: Juann", resultado);
     }
 }
